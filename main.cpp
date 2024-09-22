@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <random>
+#include <math.h>
 #include "logic.h"
 
 using namespace std;

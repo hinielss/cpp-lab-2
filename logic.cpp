@@ -1,13 +1,4 @@
-double pow(double base, int power)
-{
-    double res = 1;
-    for (int i = 0; i < power; i++)
-    {
-        res *= base;
-    }
-    return res;
-}
-
+#include <math.h>
 
 double doubleFactorial(int initial_value)
 {
