@@ -1,0 +1,1 @@
+double getResult(int y);
